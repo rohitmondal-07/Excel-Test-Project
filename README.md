@@ -1,7 +1,9 @@
 Introduction
+
 Foresight Pharmaceuticals is one of the world’s leading pharmaceutical companies with markets across the different regions of the world. The company do not directly sell to customers but work with a couple of distributors in all their regions, and have agreement with each distributor to share their sales data with them to enable them gain insights of the markets.
 
 Problem Statement
+
 The goal of this project is to uncover insights using the sales data from Foresight Pharmaceuticals to help the company make informed decisions. The dataset that used consists of sales data from the company’s two markets: Germany and Poland.
 
 After looking critically at the dataset, i decided to provide answers to the following questions:
@@ -10,10 +12,13 @@ Which market has the most sales and what factor(s) may have contributed to that?
 Which products lead sales and the ones that did not do well across both markets?
 Which channel/subchannel lead sales?
 What is the sales year over year change by channel?
+
 Data Sourcing
+
 This dataset is a simulated datasets from real business data and published by Foresight BI & Analytics Global Solutions (Foresight BI), which is a Business Intelligence and Data Analytics firm. The dataset was downloaded from Foresight BI website.
 
 Data Transformation
+
 Data transformation was done using Power Query Editor in Microsoft Excel. The following actions were taken to perform data cleaning:
 
 Promoted headers: The first rows were made headers by applying “Use First Row as Headers.”
@@ -24,6 +29,7 @@ The latitude and longitude columns were removed from the table, since it was not
 
 
 Findings
+
 <img width="1047" height="792" alt="image" src="https://github.com/user-attachments/assets/8acb0ddd-6b9c-4d89-833b-c80fcb5b502e" />
 
 
